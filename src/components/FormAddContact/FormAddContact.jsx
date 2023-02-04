@@ -79,8 +79,6 @@ const FormAddContact = ({ onAddFormSubmit }) => {
           Number
           <Input type="tel" name="number" />
           <ErrorMessage name="number" component={ErrorNumber} />
-          {/* {messeges.number} */}
-          {/* </ErrorMessage> */}
         </FormLabel>
         <AddContactBtn type="submit">Add contanct</AddContactBtn>
       </FormContact>

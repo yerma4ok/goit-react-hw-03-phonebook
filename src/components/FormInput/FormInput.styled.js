@@ -5,5 +5,4 @@ export const FormLabel = styled.label`
   margin-left: 25px;
   margin-top: 20px;
   text-transform: capitalize;
-  /* display: block; */
 `;
